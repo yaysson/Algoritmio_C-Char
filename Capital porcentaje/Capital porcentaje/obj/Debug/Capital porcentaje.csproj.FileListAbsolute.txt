@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\Capital porcentaje\Capital porcentaje\bin\Debug\Capital porcentaje.exe.config
+C:\Users\usuario\source\repos\Capital porcentaje\Capital porcentaje\bin\Debug\Capital porcentaje.exe
+C:\Users\usuario\source\repos\Capital porcentaje\Capital porcentaje\bin\Debug\Capital porcentaje.pdb
+C:\Users\usuario\source\repos\Capital porcentaje\Capital porcentaje\obj\Debug\Capital porcentaje.csprojResolveAssemblyReference.cache
+C:\Users\usuario\source\repos\Capital porcentaje\Capital porcentaje\obj\Debug\Capital porcentaje.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Capital porcentaje\Capital porcentaje\obj\Debug\Capital porcentaje.exe
+C:\Users\usuario\source\repos\Capital porcentaje\Capital porcentaje\obj\Debug\Capital porcentaje.pdb

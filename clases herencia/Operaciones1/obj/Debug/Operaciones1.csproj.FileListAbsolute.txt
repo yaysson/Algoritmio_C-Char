@@ -1,0 +1,2 @@
+G:\C#\clases herencia\Operaciones1\obj\Debug\Operaciones1.csprojAssemblyReference.cache
+G:\C#\clases herencia\Operaciones1\obj\Debug\Operaciones1.csproj.CoreCompileInputs.cache

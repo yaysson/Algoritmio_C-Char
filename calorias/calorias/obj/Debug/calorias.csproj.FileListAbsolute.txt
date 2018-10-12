@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\calorias\calorias\obj\Debug\calorias.csprojResolveAssemblyReference.cache
+C:\Users\usuario\source\repos\calorias\calorias\obj\Debug\calorias.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\calorias\calorias\bin\Debug\calorias.exe.config
+C:\Users\usuario\source\repos\calorias\calorias\bin\Debug\calorias.exe
+C:\Users\usuario\source\repos\calorias\calorias\bin\Debug\calorias.pdb
+C:\Users\usuario\source\repos\calorias\calorias\obj\Debug\calorias.exe
+C:\Users\usuario\source\repos\calorias\calorias\obj\Debug\calorias.pdb

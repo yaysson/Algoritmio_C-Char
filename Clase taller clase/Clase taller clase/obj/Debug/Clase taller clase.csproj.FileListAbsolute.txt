@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\Clase taller clase\Clase taller clase\obj\Debug\Clase taller clase.csprojResolveAssemblyReference.cache
+C:\Users\usuario\source\repos\Clase taller clase\Clase taller clase\obj\Debug\Clase taller clase.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Clase taller clase\Clase taller clase\bin\Debug\Clase taller clase.exe.config
+C:\Users\usuario\source\repos\Clase taller clase\Clase taller clase\bin\Debug\Clase taller clase.exe
+C:\Users\usuario\source\repos\Clase taller clase\Clase taller clase\bin\Debug\Clase taller clase.pdb
+C:\Users\usuario\source\repos\Clase taller clase\Clase taller clase\obj\Debug\Clase taller clase.exe
+C:\Users\usuario\source\repos\Clase taller clase\Clase taller clase\obj\Debug\Clase taller clase.pdb

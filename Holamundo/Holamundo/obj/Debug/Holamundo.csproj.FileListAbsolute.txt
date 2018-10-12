@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\Holamundo\Holamundo\bin\Debug\Holamundo.exe.config
+C:\Users\usuario\source\repos\Holamundo\Holamundo\bin\Debug\Holamundo.exe
+C:\Users\usuario\source\repos\Holamundo\Holamundo\bin\Debug\Holamundo.pdb
+C:\Users\usuario\source\repos\Holamundo\Holamundo\obj\Debug\Holamundo.csprojResolveAssemblyReference.cache
+C:\Users\usuario\source\repos\Holamundo\Holamundo\obj\Debug\Holamundo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Holamundo\Holamundo\obj\Debug\Holamundo.exe
+C:\Users\usuario\source\repos\Holamundo\Holamundo\obj\Debug\Holamundo.pdb
